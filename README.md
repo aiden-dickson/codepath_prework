@@ -4,7 +4,7 @@ Aiden's First Android App!
 
 
 ### App Description
-This application will realize your dreams of what an first android application can be.  It not only can change the color of the text label and background, as well as input text to replace the text label, but can revert it all to the original view with a simple tap on the background.  
+This application will realize your dreams of what a first android application can be.  It not only can change the color of the text label and background, as well as input text to replace the text label, but can revert it all to the original view with a simple tap on the background.  Pretty neat.
 
 ### App Walk-though
 
