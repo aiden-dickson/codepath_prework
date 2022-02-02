@@ -1,4 +1,4 @@
-Android First App!
+Aiden's First Android App!
 ===================
 
 
@@ -7,7 +7,6 @@ Android First App!
 This application will realize your dreams of what an first android application can be.  It not only can change the color of the text label and background, as well as input text to replace the text label, but can revert it all to the original view with a simple tap on the background.  
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="http://g.recordit.co/CQks63QKKN.gif" width=200><br>
 
